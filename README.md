@@ -1,3 +1,5 @@
+###Requiement 
+- Nodejs and npm https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 I. Theory Quiz:
 Make a database diagram design for a restaurant application with the purpose to make their
 workflow more efficient and organized.
